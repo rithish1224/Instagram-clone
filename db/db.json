@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 11,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "postImage": "https://picsum.photos/id/1015/400/400",
+      "caption": "Exploring the beauty of nature! 🌿🌊",
+      "likes": 120,
+      "comments": [
+        { "username": "alex_99", "comment": "Amazing view! 😍" },
+        { "username": "travel_lover", "comment": "Where is this place?" }
+      ],
+      "timestamp": "2025-04-05T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "postImage": "https://picsum.photos/id/1054/400/400",
+      "caption": "Delicious homemade pasta 🍝",
+      "likes": 95,
+      "comments": [
+        { "username": "chef_mike", "comment": "That looks so good!" },
+        { "username": "foodie_queen", "comment": "Recipe, please? 😋" }
+      ],
+      "timestamp": "2025-04-05T14:30:00Z"
+    },
+    {
+      "id": 13,
+      "username": "tech_guy",
+      "profileImage": "https://randomuser.me/api/portraits/men/3.jpg",
+      "postImage": "https://picsum.photos/id/1052/400/400",
+      "caption": "Latest gadget unboxing! 📱",
+      "likes": 210,
+      "comments": [
+        { "username": "gadget_freak", "comment": "I need this!" },
+        { "username": "tech_world", "comment": "Specs?" }
+      ],
+      "timestamp": "2025-04-05T16:45:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "rithish_12_",
+    "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  "suggestions":[
+    {
+      "id": 102,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 103,
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 104,
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 105,
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+    }
+  ] ,
+  "story": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "postImage": "https://picsum.photos/id/1015/400/400"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "postImage": "https://picsum.photos/id/1054/400/400"
+    },
+    {
+      "id": 3,
+      "username": "tech_guy",
+      "profileImage": "https://randomuser.me/api/portraits/men/3.jpg",
+      "postImage": "https://picsum.photos/id/1052/400/400"
+    },
+    {
+      "id": 4,
+      "username": "muthu_malesh",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "postImage": "https://picsum.photos/id/1015/400/400"
+    },
+    {
+      "id": 5,
+      "username": "Top-G",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "postImage": "https://picsum.photos/id/1054/400/400"
+    },
+    {
+      "id": 6,
+      "username": "tech_guy",
+      "profileImage": "https://randomuser.me/api/portraits/men/3.jpg",
+      "postImage": "https://picsum.photos/id/1052/400/400"
+    }
+  ]
+}
